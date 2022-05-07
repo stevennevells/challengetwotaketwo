@@ -1,0 +1,48 @@
+
+
+#firstApplication{
+    
+    background-color: rgb(72, 108, 173);
+    border: solid black;
+    color: #eebb14d3;
+    text-align: center;
+}
+
+.otherApplications{
+    background-color: rgba(0, 255, 255, 0.637);
+    color: rgb(238, 124, 18);
+}
+
+.contactMe{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.paragraph{
+    display:flex;
+    flex-direction: column;
+    color: darksalmon;
+    font-size: large;
+}
+
+#secondApplication{
+font-size: medium ;
+}
+
+#thirdApplication{
+    font-size: medium;
+}
+
+#fourthApplication{
+    font-size: medium;
+}
+
+#contactMe{
+    font-size: large;
+}
+
+.contacts{
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+}
